@@ -1,0 +1,145 @@
+Trial_order,List,Block,Item,expSet,grammatically_correct,condition,WP1_match,WP2_tense,SocStat_context,SocStat_contextVers,SocStat_context_clarification,Context_picture_filename,Context_audio_filename,Group,Sentence,Target_sent_audio
+1,1,1,2,WP2,no,h,x,past,high,1,female1_high,VP1c.jpg,,A,Der Skinhead z&uuml;chtigen den Str&auml;fling.,2h_f1.mp3
+2,1,1,1,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich merke&#44; dass die Gegend wegen des bunten Festes abgesperrt ist.,1a_f1.mp3
+3,1,1,3,WP1,no,e,4,x,high,1,female1_high,VP1c.jpg,,A,Ich saniere bald meine Ohren.,3e_f1.mp3
+4,1,1,3,WP2,no,h,x,past,high,1,female1_high,VP1c.jpg,,A,Der Sportlehrer knechten den Wettl&auml;ufer.,3h_f1.mp3
+5,1,1,2,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich wei&szlig;&#44; dass der Aufenthalt wegen der schlechten Lage preiswert ist.,2a_f1.mp3
+6,1,1,4,WP1,no,e,3,x,high,1,female1_high,VP1c.jpg,,A,Ich pierce bald meine Wohnung.,4e_f1.mp3
+7,1,1,3,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich nehme an&#44; dass die Absperrung wegen der langen Konferenz bestehen bleibt.,3a_f1.mp3
+8,1,1,9,WP2,yes,i,x,past,high,1,female1_high,VP1c.jpg,,A,Der Reiseleiter beguckte den Abenteurer.,9i_f1.mp3
+9,1,1,4,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich nehme an&#44; dass das Verfahren wegen der harten Anklage aufgenommen wurde.,4a_f1.mp3
+10,1,1,2,WP1,no,e,1,x,high,1,female1_high,VP1c.jpg,,A,Ich falte gleich meine Schuhe.,2e_f1.mp3
+11,1,1,33,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich merke&#44; dass das Rezept trotz der richtigen Angabe misslingt.,33a_f1.mp3
+12,1,1,10,WP2,yes,i,x,past,high,1,female1_high,VP1c.jpg,,A,Der Wagenlenker schmuste den Autoschlosser.,10i_f1.mp3
+13,1,1,34,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich behaupte&#44; dass der Reifen trotz der kurzen Reparatur gerettet ist.,34a_f1.mp3
+14,1,1,9,WP1,yes,d,10,x,high,1,female1_high,VP1c.jpg,,A,Ich verschrotte bald meine Karren.,9d_f1.mp3
+15,1,1,35,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich wei&szlig;&#44; dass der Raum trotz der massiven Hitze voll ist.,35a_f1.mp3
+16,1,1,4,WP2,no,h,x,past,high,1,female1_high,VP1c.jpg,,A,Der F&ouml;rderer kosen den Bildhauer.,4h_f1.mp3
+17,1,1,36,SocStat,yes,a,x,x,high,1,female1_high,VP1c.jpg,,A,Ich wei&szlig;&#44; dass die Planung trotz des derben Vergehens gelungen ist.,36a_f1.mp3
+18,1,1,10,WP1,yes,d,9,x,high,1,female1_high,VP1c.jpg,,A,Ich rasiere bald meine Stelzen.,10d_f1.mp3
+19,1,1,5,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich denke&#44; dass die Studie wegen des groben Versehens abgesagt ist.,5a_f2.mp3
+20,1,1,1,WP1,no,e,2,x,high,2,female2_high,VP2c.jpg,,A,Ich binde gleich meine Kleidung.,1e_f2.mp3
+21,1,1,8,WP2,yes,i,x,past,high,2,female2_high,VP2c.jpg,,A,Der Sporttaucher fobbte den Brustschwimmer.,8i_f2.mp3
+22,1,1,6,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich denke&#44; dass der Stau wegen der engen Baustelle unendlich ist.,6a_f2.mp3
+23,1,1,5,WP1,no,e,6,x,high,2,female2_high,VP2c.jpg,,A,Ich renoviere sp&auml;ter meine Tassen,5e_f2.mp3
+24,1,1,7,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich meine&#44; dass die Unruhe wegen der w&uuml;sten Proteste nachvollziehbar ist.,7a_f2.mp3
+25,1,1,6,WP1,yes,d,5,x,high,2,female2_high,VP2c.jpg,,A,Ich t&ouml;pfere sp&auml;ter meine P&ouml;tte.,6d_f2.mp3
+26,1,1,6,WP2,yes,i,x,past,high,2,female2_high,VP2c.jpg,,A,Der Sheriff &uuml;bert&ouml;lpelte den Gauner.,6i_f2.mp3
+27,1,1,8,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich meine&#44; dass das Essen wegen des scharfen Gew&uuml;rzes unvertr&auml;glich ist.,8a_f2.mp3
+28,1,1,5,WP2,no,h,x,past,high,2,female2_high,VP2c.jpg,,A,Der Bischof tadeln den Herrscher.,5h_f2.mp3
+29,1,1,7,WP1,yes,d,8,x,high,2,female2_high,VP2c.jpg,,A,Ich fahre jetzt mein Stahlross.,7d_f2.mp3
+30,1,1,37,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich mutma&szlig;e&#44; dass die Stimmung trotz des tr&auml;gen Wartens gut ist.,37a_f2.mp3
+31,1,1,8,WP1,yes,d,7,x,high,2,female2_high,VP2c.jpg,,A,Ich esse jetzt mein Gr&uuml;nzeug.,8d_f2.mp3
+32,1,1,38,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich merke&#44; dass die Leistung trotz des strikten Trainings abbaut.,38a_f2.mp3
+33,1,1,1,WP2,no,h,x,past,high,2,female2_high,VP2c.jpg,,A,Der Trinker diffamieren den R&uuml;pel.,1h_f2.mp3
+34,1,1,39,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich bef&uuml;rchte&#44; dass der Kuchen trotz der frischen F&uuml;llung trocken ist.,39a_f2.mp3
+35,1,1,7,WP2,yes,i,x,past,high,2,female2_high,VP2c.jpg,,A,Der Bandenchef verschaukelte den Raubm&ouml;rder.,7i_f2.mp3
+36,1,1,40,SocStat,yes,a,x,x,high,2,female2_high,VP2c.jpg,,A,Ich bef&uuml;rchte&#44; dass der Garten trotz der &uuml;ppigen Pflege zuwachsen wird.,40a_f2.mp3
+37,1,2,19,WP2,yes,g,x,past,low,3,male1_low,VP6m.jpg,,A,Der Priester indoktrinierte den Hausarzt.,19g_m1.mp3
+38,1,2,9,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bef&uuml;rchte&#44; dass die Strecke wegen des fr&uuml;hen Rennens umgeleitet ist.,9a_m1.mp3
+39,1,2,11,WP1,no,f,12,x,low,3,male1_low,VP6m.jpg,,A,Ich b&uuml;gel gleich meine  G&auml;ule.,11f_m1.mp3
+40,1,2,10,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bef&uuml;rchte&#44; dass die Sanierung wegen der sch&ouml;nen Umgebung chancenlos ist.,10a_m1.mp3
+41,1,2,18,WP2,yes,g,x,past,low,3,male1_low,VP6m.jpg,,A,Der Ausbilder protegierte den Springreiter.,18g_m1.mp3
+42,1,2,11,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bin &uuml;berzeugt&#44; dass die Freundschaft wegen der gro&szlig;en Entfernung leiden muss.,11a_m1.mp3
+43,1,2,12,WP1,no,f,11,x,low,3,male1_low,VP6m.jpg,,A,Ich striegel gleich meine Buxen.,12f_m1.mp3
+44,1,2,12,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bin &uuml;berzeugt&#44; dass die Veranstaltung wegen der lauten St&ouml;rung l&auml;nger dauert.,12a_m1.mp3
+45,1,2,17,WP2,yes,g,x,past,low,3,male1_low,VP6m.jpg,,A,Der Fechter befehdete den Gegner.,17g_m1.mp3
+46,1,2,41,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bin sicher&#44; dass die Note trotz der knappen Vorbereitung erfreulich ist.,41a_m1.mp3
+47,1,2,19,WP1,yes,c,20,x,low,3,male1_low,VP6m.jpg,,A,Ich unterschreibe jetzt meinen Antrag.,19c_m1.mp3
+48,1,2,42,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bin sicher&#44; dass der Vorschlag trotz der feinen Kritik ideal ist.,42a_m1.mp3
+49,1,2,12,WP2,no,j,x,past,low,3,male1_low,VP6m.jpg,,A,Der Obdachlose verp&ouml;nen den Bastard.,12j_m1.mp3
+50,1,2,43,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich denke&#44; dass das Treffen trotz der ernsten Diskussion p&uuml;nktlich endet.,43a_m1.mp3
+51,1,2,17,WP1,yes,c,18,x,low,3,male1_low,VP6m.jpg,,A,Ich putze gleich mein WC.,17c_m1.mp3
+52,1,2,11,WP2,no,j,x,past,low,3,male1_low,VP6m.jpg,,A,Der B&auml;cker beschauen den H&auml;ndler.,11j_m1.mp3
+53,1,2,44,SocStat,yes,a,x,x,low,3,male1_low,VP6m.jpg,,A,Ich denke&#44; dass die Werbung trotz des frechen Mottos langsam wirkt.,44a_m1.mp3
+54,1,2,18,WP1,yes,c,17,x,low,3,male1_low,VP6m.jpg,,A,Ich f&uuml;ttere gleich mein Tier.,18c_m1.mp3
+55,1,2,13,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich sch&auml;tze&#44; dass die Lieferung wegen der heftigen St&uuml;rme versp&auml;tet ist.,13a_m2.mp3
+56,1,2,20,WP2,yes,g,x,past,low,4,male2_low,VP3m.jpg,,A,Der Kaiser verw&ouml;hnte den Herzog.,20g_m2.mp3
+57,1,2,14,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich vermute&#44; dass die Bahn wegen des heiklen Spiels &uuml;berf&uuml;llt ist.,14a_m2.mp3
+58,1,2,13,WP1,no,f,14,x,low,4,male2_low,VP3m.jpg,,A,Ich schmiere sp&auml;ter meine  Klauen.,13f_m2.mp3
+59,1,2,13,WP2,no,j,x,past,low,4,male2_low,VP3m.jpg,,A,Der Kneipenwirt verm&ouml;beln den Meisterkoch.,13j_m2.mp3
+60,1,2,15,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich ahne&#44; dass die Stimmung wegen der fiesen Beleidigung schlecht ist.,15a_m2.mp3
+61,1,2,16,WP2,yes,g,x,past,low,4,male2_low,VP3m.jpg,,A,Der Techniker behelligte den Handwerker.,16g_m2.mp3
+62,1,2,16,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich merke&#44; dass die &uuml;berraschung wegen der tiefen Freude gelungen ist.,16a_m2.mp3
+63,1,2,14,WP1,no,f,13,x,low,4,male2_low,VP3m.jpg,,A,Ich lackiere sp&auml;ter meine  Schnitten.,14f_m2.mp3
+64,1,2,45,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich sch&auml;tze&#44; dass das Haus trotz der nahen Deponie verkauft ist.,45a_m2.mp3
+65,1,2,15,WP2,no,j,x,past,low,4,male2_low,VP3m.jpg,,A,Der Staatsdiener verpetzen den Werksleiter.,15j_m2.mp3
+66,1,2,46,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich vermute&#44; dass die Zeit trotz der schrillen Musik entspannend ist.,46a_m2.mp3
+67,1,2,15,WP1,no,f,16,x,low,4,male2_low,VP3m.jpg,,A,Ich spare jetzt mein Futter.,15f_m2.mp3
+68,1,2,14,WP2,no,j,x,past,low,4,male2_low,VP3m.jpg,,A,Der Bauer checken den Helfer.,14j_m2.mp3
+69,1,2,47,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich behaupte&#44; dass der Wettkampf trotz der k&uuml;hlen Witterung wieder stattfidet.,47a_m2.mp3
+70,1,2,16,WP1,yes,c,15,x,low,4,male2_low,VP3m.jpg,,A,Ich koche jetzt mein Essen.,16c_m2.mp3
+71,1,2,48,SocStat,yes,a,x,x,low,4,male2_low,VP3m.jpg,,A,Ich vermute&#44; dass der Zahn trotz der sanften Behandlung oft schmerzt.,48a_m2.mp3
+72,1,2,20,WP1,yes,c,19,x,low,4,male2_low,VP3m.jpg,,A,Ich serviere jetzt meinen Champagner.,20c_m2.mp3
+73,1,3,21,WP2,yes,g,x,past,high,1,female1_high,VP1c.jpg,,A,Der Marktschreier reizte den Obsth&auml;ndler.,21g_f1.mp3
+74,1,3,25,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich glaube&#44; dass die Ruhe wegen die strenge Verordnung sichergestellt ist.,25b_f1.mp3
+75,1,3,25,WP1,yes,c,26,x,high,1,female1_high,VP1c.jpg,,A,Ich pedik&uuml;re bald meine F&uuml;&szlig;e.,25c_f1.mp3
+76,1,3,26,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich glaube&#44; dass die Tierart wegen die wilde Jagd ausgerottet ist.,26b_f1.mp3
+77,1,3,28,WP2,no,j,x,past,high,1,female1_high,VP1c.jpg,,A,Der Bruder beschwindeln den Vetter.,28j_f1.mp3
+78,1,3,21,WP1,yes,c,22,x,high,1,female1_high,VP1c.jpg,,A,Ich st&auml;hle jetzt meinen Bauch.,21c_f1.mp3
+79,1,3,27,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich bin sicher&#44; dass die Auff&uuml;hrung wegen die schnelle Effekte beeindruckend ist.,27b_f1.mp3
+80,1,3,26,WP2,no,j,x,past,high,1,female1_high,VP1c.jpg,,A,Der Rocks&auml;nger belabern den Schlagzeuger.,26j_f1.mp3
+81,1,3,26,WP1,no,f,25,x,high,1,female1_high,VP1c.jpg,,A,Ich verkaufe bald meine Mauken.,26f_f1.mp3
+82,1,3,28,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich mutma&szlig;e&#44; dass der Park wegen die schmale Gr&ouml;&szlig;e &uuml;bersichtlich ist.,28b_f1.mp3
+83,1,3,25,WP2,yes,g,x,past,high,1,female1_high,VP1c.jpg,,A,Der Kunstreiter inspizierte den Ringk&auml;mpfer.,25g_f1.mp3
+84,1,3,49,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich hoffe&#44; dass das Wetter trotz die kalte Prognose angenehm ist.,49b_f1.mp3
+85,1,3,27,WP1,no,f,28,x,high,1,female1_high,VP1c.jpg,,A,Ich schneidere jetzt meine Fiedel.,27f_f1.mp3
+86,1,3,50,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich nehme an&#44; dass der Film trotz die schwache Bewertung interessant ist.,50b_f1.mp3
+87,1,3,27,WP2,no,j,x,past,high,1,female1_high,VP1c.jpg,,A,Der Kapit&auml;n verkohlen den General.,27j_f1.mp3
+88,1,3,51,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich nehme an&#44; dass der Umsatz trotz die miese Wirtschaftslage schnell steigt.,51b_f1.mp3
+89,1,3,28,WP1,no,f,27,x,high,1,female1_high,VP1c.jpg,,A,Ich besaite sp&auml;ter meine Fummel.,28f_f1.mp3
+90,1,3,52,SocStat,no,b,x,x,high,1,female1_high,VP1c.jpg,,A,Ich hoffe&#44; dass die F&uuml;hrung trotz das &uuml;ble Ungl&uuml;ck stattfinden kann.,52b_f1.mp3
+91,1,3,23,WP2,yes,g,x,past,high,2,female2_high,VP2c.jpg,,A,Der Geige.r stupste den S&auml;nger.,23g_f2.mp3
+92,1,3,29,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich ahne&#44; dass der Ausflug wegen die sp&auml;te Anmeldung ausfallen muss.,29b_f2.mp3
+93,1,3,22,WP1,yes,c,21,x,high,2,female2_high,VP2c.jpg,,A,Ich entwurme jetzt meinen Hund.,22c_f2.mp3
+94,1,3,22,WP2,yes,g,x,past,high,2,female2_high,VP2c.jpg,,A,Der Gastwirt korrumpierte den Winzer.,22g_f2.mp3
+95,1,3,30,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich bin sicher&#44; dass der Umbau wegen die klare Vorschrift verz&ouml;gert wird.,30b_f2.mp3
+96,1,3,23,WP1,yes,c,24,x,high,2,female2_high,VP2c.jpg,,A,Ich k&auml;mme gleich meine Haare.,23c_f2.mp3
+97,1,3,31,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich mutma&szlig;e&#44; dass die Sendung wegen die leichte Verwirrung verschwunden ist.,31b_f2.mp3
+98,1,3,30,WP2,no,j,x,past,high,2,female2_high,VP2c.jpg,,A,Der Verbrecher bem&auml;keln den Kontaktmann.,30j_f2.mp3
+99,1,3,32,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich wei&szlig;&#44; dass das Ufer wegen die gr&uuml;ne Aussicht idylisch wirkt.,32b_f2.mp3
+100,1,3,24,WP1,yes,c,23,x,high,2,female2_high,VP2c.jpg,,A,Ich bef&uuml;lle gleich meine Flasche.,24c_f2.mp3
+101,1,3,53,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich meine&#44; dass die Firma trotz die rasche Anerkennung aufh&ouml;ren sollte.,53b_f2.mp3
+102,1,3,29,WP2,no,j,x,past,high,2,female2_high,VP2c.jpg,,A,Der NachtporTier kneifen den Landstreicher.,29j_f2.mp3
+103,1,3,54,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich ahne&#44; dass das Fahrrad trotz das teure Schloss weg ist.,54b_f2.mp3
+104,1,3,29,WP1,no,f,30,x,high,2,female2_high,VP2c.jpg,,A,Ich rauche bald meine Kneipe.,29f_f2.mp3
+105,1,3,55,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich finde&#44; dass die Kosten trotz die hohe Nachfrage gerechtfertig sind.,55b_f2.mp3
+106,1,3,24,WP2,yes,g,x,past,high,2,female2_high,VP2c.jpg,,A,Der G&auml;rtner bet&ouml;rte den Pf&ouml;rtner.,24g_f2.mp3
+107,1,3,56,SocStat,no,b,x,x,high,2,female2_high,VP2c.jpg,,A,Ich meine&#44; dass das Ger&uuml;st trotz das breite Netz unsicher wirkt.,56b_f2.mp3
+108,1,3,30,WP1,no,f,29,x,high,2,female2_high,VP2c.jpg,,A,Ich streiche bald meine Kippe.,30f_f2.mp3
+109,1,4,17,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich vermute&#44; dass die Aktion wegen die volle Kita zugelassen ist.,17b_m1.mp3
+110,1,4,33,WP1,yes,d,34,x,low,3,male1_low,VP6m.jpg,,A,Ich lese sp&auml;ter meine W&auml;lzer.,33d_m1.mp3
+111,1,4,33,WP2,yes,i,x,past,low,3,male1_low,VP6m.jpg,,A,Der S&auml;ufer mobbte den Rowdy.,33i_m1.mp3
+112,1,4,18,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich finde&#44; dass der Artikel wegen die kleinen Vorf&auml;lle deutlich &uuml;bertreibt.,18b_m1.mp3
+113,1,4,34,WP1,yes,d,33,x,low,3,male1_low,VP6m.jpg,,A,Ich trinke sp&auml;ter meine Brause.,34d_m1.mp3
+114,1,4,34,WP2,yes,i,x,past,low,3,male1_low,VP6m.jpg,,A,Der Raufbold verhaute den H&auml;ftling.,34i_m1.mp3
+115,1,4,19,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich finde&#44; dass der Kaffee wegen die alte Milch merkw&uuml;rdig schmeckt.,19b_m1.mp3
+116,1,4,35,WP1,yes,d,36,x,low,3,male1_low,VP6m.jpg,,A,Ich schminke sp&auml;ter meine Glubscher.,35d_m1.mp3
+117,1,4,20,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich sch&auml;tze&#44; dass die Farbe wegen das tr&uuml;be Licht dunkler wirkt.,20b_m1.mp3
+118,1,4,36,WP2,no,h,x,past,low,3,male1_low,VP6m.jpg,,A,Der Edelmann betr&uuml;gen den Hofmaler.,36h_m1.mp3
+119,1,4,57,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich glaube&#44; dass die Aufgabe trotz die zarte Unterbrechung beendet ist.,57b_m1.mp3
+120,1,4,36,WP1,no,e,35,x,low,3,male1_low,VP6m.jpg,,A,Ich monTiere sp&auml;ter meine Augen.,36e_m1.mp3
+121,1,4,58,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bin &uuml;berzeugt&#44; dass das Gespr&auml;ch trotz die vielen &auml;nderungen sinnvoll ist.,58b_m1.mp3
+122,1,4,35,WP2,yes,i,x,past,low,3,male1_low,VP6m.jpg,,A,Der Radprofi piesackte den Rennfahrer. ,35i_m1.mp3
+123,1,4,59,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich bin &uuml;berzeugt&#44; dass die Vorstellung trotz die riesige Pause anstrengend ist.,59b_m1.mp3
+124,1,4,40,WP1,no,e,39,x,low,3,male1_low,VP6m.jpg,,A,Ich trage jetzt meine Pension.,40e_m1.mp3
+125,1,4,60,SocStat,no,b,x,x,low,3,male1_low,VP6m.jpg,,A,Ich glaube&#44; dass der Text trotz die kluge Hilfestellung anspruchsvoll ist.,60b_m1.mp3
+126,1,4,40,WP2,no,h,x,past,low,3,male1_low,VP6m.jpg,,A,Der Barkeeper r&uuml;gen den Weinkenner.,40h_m1.mp3
+127,1,4,21,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich hoffe&#44; dass die Reaktion wegen die falsche Nachricht angemEssen ist.,21b_m2.mp3
+128,1,4,39,WP2,no,h,x,past,low,4,male2_low,VP3m.jpg,,A,Der Fremdenf&uuml;hrer bel&uuml;gen den Gro&szlig;wildj&auml;ger.,39h_m2.mp3
+129,1,4,22,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich hoffe&#44; dass die Benotung wegen die schwere Krankheit mild ausf&auml;llt.,22b_m2.mp3
+130,1,4,31,WP1,yes,d,32,x,low,4,male2_low,VP3m.jpg,,A,Ich feuer bald meine Knarre.,31d_m2.mp3
+131,1,4,23,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich behaupte&#44; dass die Unterhaltung wegen die gute Absicht glatt verl&auml;uft.,23b_m2.mp3
+132,1,4,38,WP2,no,h,x,past,low,4,male2_low,VP3m.jpg,,A,Der Gendarm internieren den R&auml;uber.,38h_m2.mp3
+133,1,4,24,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich behaupte&#44; dass das Lesen wegen die neue Brille leichter f&auml;llt.,24b_m2.mp3
+134,1,4,32,WP1,yes,d,31,x,low,4,male2_low,VP3m.jpg,,A,Ich verschreibe bald meine Pillen.,32d_m2.mp3
+135,1,4,61,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich finde&#44; dass die Antwort trotz die nette Erkl&auml;rung wenig hilft.,61b_m2.mp3
+136,1,4,37,WP2,no,h,x,past,low,4,male2_low,VP3m.jpg,,A,Der Dekan verunglimpfen den Kanzler.,37h_m2.mp3
+137,1,4,62,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich sch&auml;tze&#44; dass die Bewerbung trotz das triste Photo gut ist.,62b_m2.mp3
+138,1,4,37,WP1,no,e,38,x,low,4,male2_low,VP3m.jpg,,A,Ich wasche gleich meine Getr&auml;nke.,37e_m2.mp3
+139,1,4,63,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich mutma&szlig;e&#44; dass die Reparatur trotz die faire Versicherung teuer ist. ,63b_m2.mp3
+140,1,4,32,WP2,yes,i,x,past,low,4,male2_low,VP3m.jpg,,A,Der Rektor begaffte den Sch&uuml;ler.,32i_m2.mp3
+141,1,4,38,WP1,no,e,37,x,low,4,male2_low,VP3m.jpg,,A,Ich versch&uuml;tte gleich meine Finger.,38e_m2.mp3
+142,1,4,64,SocStat,no,b,x,x,low,4,male2_low,VP3m.jpg,,A,Ich ahne&#44; dass der Fleck trotz die starke Reinigung bleibt.,64b_m2.mp3
+143,1,4,39,WP1,no,e,40,x,low,4,male2_low,VP3m.jpg,,A,Ich betreibe jetzt meine Hausschuhe.,39e_m2.mp3
+144,1,4,31,WP2,yes,i,x,past,low,4,male2_low,VP3m.jpg,,A,Der Bengel ver&auml;ppelte den Flegel.,31i_m2.mp3
